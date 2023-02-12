@@ -55,7 +55,7 @@ global.owner = [
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285715382503'
+global.nomorbot = '6283148340038'
 global.nomorown = '6285862754807'
 global.nomorown1 = '6285862754807'
 global.nomorown2 = '6285862754807'
